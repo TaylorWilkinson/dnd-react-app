@@ -1,3 +1,18 @@
+# 🐉 Taylor's Homegrown Organic Farm-To-Table D&D Assistant (Official Name Pending)
+A personalized D&D application to organize my character's information during play.
+
+## 🤨 Why? Why This?
+While playing Dungeons and Dragons with my friends, I sometimes find myself missing crucial information, forgetting spells, or getting confused in the heat of battle. You may think that this just means I'm bad at D&D but you're very wrong. I'm the best. I am the Game Boy - I am the one who wins.
+The true reason for my failure is not my own: it's those darn papers. Flipping through your character sheets, the Players Handbook and other books, it's easy to get lost in the reeds. There are online platforms of course, but they're often cluttered with information I never end up really using in my campaign.
+Inspired by D&D Beyond, but craving a more streamlined user experience, I used this as an opportunity to create something Taylor-made (haha get it? I'm also a comedian) for myself, all while improving my React.js skills.
+
+### 🔧 Built With:
+* __React.js__
+
+#### 🙋‍♀️ Creator:
+* Taylor Wilkinson (https://github.com/TaylorWilkinson) - Designer & Developer
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -10,7 +10,9 @@ import SkillsPage from './pages/SkillsPage.js';
 import EquipmentPage from './pages/EquipmentPage.js';
 import ActionsPage from './pages/ActionsPage.js';
 import SpellsPage from './pages/SpellsPage.js';
-import NavBar from './NavBar.js';
+
+import NavBar from './components/NavBar.js';
+import HeroInfo from './components/HeroInfo.js';
 import './App.css';
 
 function App() {
@@ -19,6 +21,7 @@ function App() {
       <div className="App">
         <NavBar />
         <div id="page-body">
+          <HeroInfo />
           <Route path="/" component={HomePage} exact />
           <Route path="/skills" component={SkillsPage} />
           <Route path="/equipment" component={EquipmentPage} />
